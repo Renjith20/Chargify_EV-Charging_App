@@ -39,6 +39,3 @@ An `Android Application` coded in `Java Language` using `Android Studio`. Backen
   <img src = "https://github.com/prejin2310/Ev-Charging-App/blob/7c8908155d6eb29b3c822733761d22808ce9cd09/Screenshots/uplo.png" alt = "" width="200px"/>
 </div>
   
-### Contributors
-- [Prejin PR](https://github.com/prejin2310)
-- [Renjith RP](https://github.com/Renjith20)
